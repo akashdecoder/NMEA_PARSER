@@ -1,2 +1,2 @@
-# NMEA_PARSER_C-
+# NMEA_PARSER
 NMEA Parser using simple concepts of C++ strings and vectors
